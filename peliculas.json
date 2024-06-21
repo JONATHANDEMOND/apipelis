@@ -1,0 +1,38 @@
+{
+    "Usuarios": {
+    "jou": {
+      "edad": "33",
+      "nick": "jou",
+      "nombre": "Jonathan Barros"
+    }
+    },
+
+   "movies":{
+    "1": {
+      "titulo":"EL utlimo jeadi",
+      "anio":"2010",
+      "img":"https://4kwallpapers.com/images/walls/thumbs_3t/17003.jpg",
+      "video":"https://www.youtube.com/watch?v=anOJjqQb8x0"
+    },
+    "2": {
+      "titulo":"Venom",
+      "anio":"2010",
+      "img":"https://4kwallpapers.com/images/walls/thumbs_3t/16995.jpg",
+      "video":"https://www.youtube.com/watch?v=whyT4WCy7ek"
+    },
+  
+   "3": {
+      "titulo":"Minions",
+      "anio":"2010",
+      "img":"https://4kwallpapers.com/images/walls/thumbs_3t/16830.jpg",
+      "video":"https://www.youtube.com/watch?v=FI4xFqXL5ww"
+    },
+    "4": {
+      "titulo":"Chain Saw Men",
+      "anio":"2010",
+      "img":"https://4kwallpapers.com/images/walls/thumbs_3t/16729.jpeg",
+      "video":"https://www.youtube.com/watch?v=P_ENe7ORuDE"
+    }
+
+  }
+}
