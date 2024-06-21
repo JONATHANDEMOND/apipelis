@@ -1,0 +1,40 @@
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+/* Heading styles */
+h1 {
+    color: #333;
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Link styles */
+a {
+    text-decoration: none;
+    color: #000;
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: #fff;
+    border-radius: 5px;
+    margin: 20px auto;
+    display: block;
+    width: fit-content;
+}
+
+/* List item styles */
+li {
+    list-style: none;
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+/* Hover effects */
+a:hover {
+    background-color: #0056b3;
+}
